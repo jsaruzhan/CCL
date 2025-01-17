@@ -5,6 +5,6 @@ The main components such as: bowl, background. Also workd on the fron page of th
 I am finishing the front page and setting up the basic js files 
 and continuing working on the drawing for future animation.
 16/01/2025
-Added some ingredience and made them fall from the top of the canvas in random way.
+Added some ingredients and made them fall from the top of the canvas in random way.
 17/01/2025
-Fixing the collision with the bowl 
+Fixing the collision with the bowl and finishing adding the last ingredints. Starting to work on checking winning conditions
