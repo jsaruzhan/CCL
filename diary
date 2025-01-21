@@ -10,3 +10,5 @@ Added some ingredients and made them fall from the top of the canvas in random w
 Fixing the collision with the bowl and finishing adding the last ingredints. Starting to work on checking winning conditions
 20/01/2025
 Starting the first animation, finished with the winning conditions and added a message when they r met 
+21/01/2025
+Fixed the failing conditions and finishing first animation.
