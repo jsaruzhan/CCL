@@ -1,0 +1,63 @@
+# 🎮 **Behind the Counter** 
+
+> **Short Pitch**: A small,cozy game where you just need to catch the correct ingredient to make magic happen!
+> 
+> *Example:* "Bake banana bread for the cozy NYC bakery and charm the city! "
+
+---
+
+## 🌐 **Play the Game**
+[Click here to play the game!](https://your-github-username.github.io/repository-name)
+
+---
+
+## 📸 **Screenshots**
+
+### Main Gameplay:
+<div style="text-align: center;">
+  <img src="gameplay.png" alt="Gameplay Screenshot" width="600">
+  <p>*Figure 1: Example of gameplay in action.*</p>
+</div>
+
+---
+
+### Menu and UI:
+<div style="text-align: center;">
+  <img src="menu.png" alt="Menu UI Screenshot" width="600">
+  <p>*Figure 2: Menu and user interface.*</p>
+</div>
+
+---
+
+## 🎨 **Spritesheets**
+Below are the sprites used to create characters and objects in the game:
+
+### Player Character:
+<div style="text-align: center;">
+  <img src="playersheet.png" alt="Player Spritesheet" width="500">
+  <p>*Figure 3: Player character animations.*</p>
+</div>
+
+---
+
+### Enemies and NPCs:
+<div style="text-align: center;">
+  <img src="enemysheet.png" alt="Enemy Spritesheet" width="500">
+  <p>*Figure 4: Enemy animations.*</p>
+</div>
+
+---
+
+## ✍️ **Reflection**
+
+### What went well:
+- **Creative Design:** The vision for the game was pretty easy to realize, however it was overwhelming to draw everything on my on within two weeks, but I managed!
+- **Core Mechanics:** The A/D movement (left to right/right to left) of a bowl to catch the correct ingredients. 
+
+### Challenges:
+- **Time Constraints:** Timeframe made it stressful, since one day you think you are going with a good pace on one day you feel like you are runnig out og time completly. 
+- **Bug Fixes:** Fortunately, there werent a lot of bugs, but some small mistakes would appear which made it seem like everything is wrong but end up being little stuff.
+
+### Lessons Learned:
+- **Prototyping Matters:** Testing with the base game core that we had after 2D browser coding help understand the way I wanted to make my game more.
+- **Keep it Simple:** Focusing on my game idea and making it as much as possible as what I imagined before the CCL helped with completing the game.
