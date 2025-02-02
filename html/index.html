@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CCL</title>
+    <link rel="stylesheet" href="../css/style.css" />
+</head>
+
+
+<body>
+    <div id="Recipe"><span>Recipe for a Banana Bread:</span>
+        <span>banana:</span>
+        <span id="bananaCount">3</span>
+        <span>, Eggs:</span>
+        <span id="eggCount">2</span>
+        <span>, Sugar:</span>
+        <span id="sugarCount">1</span>
+        <span>, Flour:</span>
+        <span id="flourCount">2</span>
+        <span>, Vanilla:</span>
+        <span id="vanillaCount">2</span>
+    </div>
+    <div id="gameContainer">
+        <div id="startOver">
+            <button id="restartButton">Restart Game</button>
+        </div>
+        <div id="Mix" style="display: none;">
+            <button id="letsMix">Let's Mix!</button>
+        </div>
+        <div id="background"></div>
+        <canvas id="canvas" width="1000" height="1050"></canvas>
+    </div>
+    <script type="module" src="../scripts/modules/global.js"></script>
+    <script type="module" src="../scripts/modules/input.js"></script>
+    <script type="module" src="../scripts/modules/main.js"></script>
+
+</body>
+
+</html>

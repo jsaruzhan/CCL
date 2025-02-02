@@ -1,0 +1,82 @@
+#Recipe {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: center;
+    color:rgb(37, 111, 16);
+}
+
+body {
+    background-color: rgb(255, 240, 216);
+    width: 100vw;
+}
+
+#gameContainer {
+    position: relative;
+    width: 1000px;
+    height: 1050px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#canvas {
+    position: absolute;
+    margin-left: auto;
+}
+
+
+#background {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 1000px;
+    height: 1050px;
+    background-image: url('../images/Backgroun.png');
+    background-size: cover;
+
+}
+
+#startOver, #Mix {
+    z-index: 2;
+    position: absolute; 
+    height: 500px; 
+    width: 500px; 
+    margin-left: 25%;
+    margin-right: 25%;
+    display: none;
+}
+
+#startOver > button, #Mix > button {
+    height: 100px;
+    width: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: bold;
+    background-color: burlywood;
+    color: white;
+    border-radius: 20%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 300px;
+}
+
+#letsBake {
+    height: 150px;
+    width: 300px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    font-weight: bold;
+    background-color: burlywood;
+    color: white;
+    border-radius: 20%;
+    margin-left: 350px;
+    margin-right: 25%;
+    margin-top: 800px;
+}
+
+#bake {
+    z-index: 2; 
+    position: absolute; 
+    height: 500px; 
+    width: 500px;
+}
+ 
