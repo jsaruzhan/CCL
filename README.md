@@ -15,7 +15,7 @@
 
 ### Main Gameplay:
 <div style="text-align: center;">
-  <img src="gameplay.png" alt="Gameplay Screenshot" width="600">
+  <img src="../main/game_area.png" alt="Gameplay Screenshot" width="600">
   <p>*Figure 1: Example of gameplay in action.*</p>
 </div>
 
@@ -32,17 +32,17 @@
 ## 🎨 **Spritesheets**
 Below are the sprites used to create characters and objects in the game:
 
-### Player Character:
+### Mixing Animation:
 <div style="text-align: center;">
-  <img src="playersheet.png" alt="Player Spritesheet" width="500">
+  <img src="../main/mixing_animation.png" alt="Player Spritesheet" width="500">
   <p>*Figure 3: Player character animations.*</p>
 </div>
 
 ---
 
-### Enemies and NPCs:
+### Finished Product:
 <div style="text-align: center;">
-  <img src="enemysheet.png" alt="Enemy Spritesheet" width="500">
+  <img src="../main/last_animation.png" alt="Enemy Spritesheet" width="500">
   <p>*Figure 4: Enemy animations.*</p>
 </div>
 
